@@ -1,2 +1,2 @@
 # Crystal-PS-
-Is A Custom Private Server Bases on 1.9 Geometry Dash Version.
+Is A Custom Private Server Bases on 2.2 Geometry Dash Version.
